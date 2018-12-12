@@ -1,0 +1,1 @@
+*beg*,*love*,*containers*,*oven*,*plate*,*dish*,*spoon*,*bowl*,*pot*,*stove*,*spatula*,*sink*,*soup*,*tray*,*gloves*

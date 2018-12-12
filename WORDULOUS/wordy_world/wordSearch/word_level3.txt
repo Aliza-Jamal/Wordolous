@@ -1,0 +1,1 @@
+*basketball*,*baseball*,*cricket*,*football*,*snooker*,*sour*,*marbles*,*hockey*,*rugby*,*pool*,*netball*,*bat*,*golf*,*feed*

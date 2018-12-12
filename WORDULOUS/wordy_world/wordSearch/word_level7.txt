@@ -1,0 +1,1 @@
+*furniture*,*chair*,*table*,*light*,*fan*,*door*,*lock*,*bulb*,*clock*,*button*,*switch*

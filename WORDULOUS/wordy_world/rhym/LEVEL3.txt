@@ -1,0 +1,1 @@
+loop,stop,score,born,out,bought,now,crown,duck,bug
